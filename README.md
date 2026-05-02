@@ -17,12 +17,11 @@ const hinaa = {
     "✅ TryHackMe: What is Networking?"
   ]
 };
-};
 ### 📚 Currently Learning
 
 | Category | Topics |
 |----------|--------|
-| **Cloud** | Microsoft Azure (AZ-900 → AZ-500) |
+| **Cloud** |Microsoft Azure (AZ-900 → AZ-500) |
 | **Security** | Cybersecurity fundamentals, Zero Trust |
 | **Hands-on** | TryHackMe (Pre Security path) |
 | **Tools** | GitHub, Linux basics, Networking |
