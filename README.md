@@ -11,11 +11,12 @@ const hinaa = {
   focus: ["Cloud Security", "Azure", "Ethical Hacking"],
   current: "Course 2: Azure Fundamentals",
   completed: [
-  "✅ Course 1: Cloud & Cybersecurity",
-  "✅ TryHackMe: Offensive Security",
-  "✅ TryHackMe: Defensive Security",
-  "✅ TryHackMe: What is Networking?"
-],
+    "✅ Course 1: Cloud & Cybersecurity",
+    "✅ TryHackMe: Offensive Security",
+    "✅ TryHackMe: Defensive Security",
+    "✅ TryHackMe: What is Networking?"
+  ]
+};
 };
 ### 📚 Currently Learning
 
